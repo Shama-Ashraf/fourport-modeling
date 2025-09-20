@@ -103,21 +103,21 @@ The main Python libraries used in this project are:
 Install them all using:
 ```bash
 pip install numpy scikit-learn matplotlib jupyter
-
-📈 Types of Analytics
+```
+## 📈 Types of Analytics
 This model can be used for all four types of data analytics:
 
-📋 Descriptive: What happened? "The output was 25V because the input was 5A."
+📋 **Descriptive:** What happened? "The output was 25V because the input was 5A."
 
-🔍 Diagnostic: Why did it happen? "The high output is expected behavior, not a system error."
+🔍 **Diagnostic:** Why did it happen? "The high output is expected behavior, not a system error."
 
-🔮 Predictive: What will happen? "If input reaches 4A, output will be ~20V."
+🔮 **Predictive:** What will happen? "If input reaches 4A, output will be ~20V."
 
-🎯 Prescriptive: What should we do? "Keep input current below 4A to ensure output voltage stays under 20V."
+🎯 **Prescriptive:** What should we do? "Keep input current below 4A to ensure output voltage stays under 20V."
 
-📄 License
+## License
 This project is for educational purposes, based on concepts from the linked textbook chapter. Feel free to use the code for learning and teaching.
 
-<div align="center">
+  <div align="center">
 Found this project useful? Please consider giving it a ⭐ on GitHub!
-</div> ```
+</div>
